@@ -1,8 +1,11 @@
 # Loan-Analysis
 Analysing the loan approval dataset and discovering insights that help to make good strategic decisions
 
+![visualization report](https://github.com/oluwafavourmi/Loan-Analysis/blob/main/Visualization/finance3.png)
+
 Finance Loan Approval Analysis 
-Analysis was performed on a loan approval dataset gotten from kaggle. The following Deductions were made after analysis was performed, after the dataset was cleaned and transformed:
+Analysis was performed on a loan approval dataset gotten from kaggle. The following Deductions were made after analysis
+was performed, after the dataset was cleaned and transformed:
 
 - We have a total of 480 loan applicants
 - Average applicants income amounts to 5.36K
